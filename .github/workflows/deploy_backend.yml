@@ -1,4 +1,4 @@
-name: Deploy Parcelhub Backend
+name: Deploy parcelhub-backend
 
 on:
   push:
